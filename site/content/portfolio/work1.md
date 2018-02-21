@@ -37,22 +37,18 @@ When she reached the first hills of the Italic Mountains, she had a last view ba
     <li data-target="#myCarousel" data-slide-to="1"></li>
     <li data-target="#myCarousel" data-slide-to="2"></li>
   </ol>
-
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
       <img src="/img/portfolio/a4-paper.jpg" alt="Los Angeles">
     </div>
-
     <div class="item">
       <img src="/img/portfolio/business-card.jpg" alt="Chicago">
     </div>
-
     <div class="item">
       <img src="/img/portfolio/ipad-air-2.jpg" alt="New York">
     </div>
   </div>
-
   <!-- Left and right controls -->
   <a class="left carousel-control" href="#myCarousel" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left"></span>
