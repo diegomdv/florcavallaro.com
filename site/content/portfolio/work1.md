@@ -41,15 +41,15 @@ When she reached the first hills of the Italic Mountains, she had a last view ba
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="img/portfolio/a4-paper.jpg" alt="Los Angeles">
+      <img src="/img/portfolio/a4-paper.jpg" alt="Los Angeles">
     </div>
 
     <div class="item">
-      <img src="business-card.jpg" alt="Chicago">
+      <img src="/img/portfolio/business-card.jpg" alt="Chicago">
     </div>
 
     <div class="item">
-      <img src="ipad-air-2.jpg" alt="New York">
+      <img src="/img/portfolio/ipad-air-2.jpg" alt="New York">
     </div>
   </div>
 
