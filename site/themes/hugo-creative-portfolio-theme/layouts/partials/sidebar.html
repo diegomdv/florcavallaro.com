@@ -1,6 +1,7 @@
 <div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
   <div class="sidebar-content">
     <h1 class="sidebar-heading"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
+    <img src="http://res.cloudinary.com/florcavallaro/image/upload/bo_12px_solid_rgb:ffffff,e_shadow:40,r_0/v1520528012/flor-cavallaro.jpg" alt="" class="img-responsive"><br />
     {{ range .Site.Params.sidebarAbout }}
       <p class="sidebar-p">{{ . | safeHTML }}</p>
     {{ end }}
