@@ -12,32 +12,67 @@ Es una mezcla de pasado, presente.
 Emociones que están vivas al observar esa imagen.
 <!--more-->
 
-<div id="myCarousel" class="carousel slide" data-ride="carousel">
-  <!-- Indicators -->
-  <ol class="carousel-indicators">
-    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-    <li data-target="#myCarousel" data-slide-to="1"></li>
-    <li data-target="#myCarousel" data-slide-to="2"></li>
-  </ol>
-  <!-- Wrapper for slides -->
-  <div class="carousel-inner">
-    <div class="item active">
-      <img src="/img/portfolio/a4-paper.jpg" alt="Los Angeles">
+<div class="tz-gallery">
+    <div class="row">
+        <div class="col-sm-12 col-md-4">
+            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-blanco-negro-02.jpg">
+                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-blanco-negro-02.jpg" alt="Park">
+            </a>
+        </div>
+        <div class="col-sm-12 col-md-4">
+            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-blanco-negro-10.jpg">
+                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-blanco-negro-10.jpg" alt="Traffic">
+            </a>
+        </div>
+        <div class="col-sm-12 col-md-4">
+            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-blanco-negro-12.jpg">
+                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-blanco-negro-12.jpg" alt="Rails">
+            </a>
+        </div>
+        <div class="col-sm-12 col-md-4">
+            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-blanco-negro-01.jpg">
+                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-blanco-negro-01.jpg" alt="Bridge">
+            </a>
+        </div>
+        <div class="col-sm-12 col-md-4">
+            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-blanco-negro-03.jpg">
+                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-blanco-negro-03.jpg" alt="Tunnel">
+            </a>
+        </div>
+        <div class="col-sm-12 col-md-4">
+            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-blanco-negro-05.jpg">
+                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-blanco-negro-05.jpg" alt="Coast">
+            </a>
+        </div> 
+        <div class="col-sm-12 col-md-4">
+            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-blanco-negro-06.jpg">
+                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-blanco-negro-06.jpg" alt="Rails">
+            </a>
+        </div>
+        <div class="col-sm-12 col-md-4">
+            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-blanco-negro-07.jpg">
+                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-blanco-negro-07.jpg" alt="Bridge">
+            </a>
+        </div>
+        <div class="col-sm-12 col-md-4">
+            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-blanco-negro-11.jpg">
+                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-blanco-negro-11.jpg" alt="Coast">
+            </a>
+        </div> 
+        <div class="col-sm-12 col-md-4">
+            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-blanco-negro-08.jpg">
+                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-blanco-negro-08.jpg" alt="Park">
+            </a>
+        </div>
+        <div class="col-sm-12 col-md-4">
+            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-blanco-negro-09.jpg">
+                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-blanco-negro-09.jpg" alt="Tunnel">
+            </a>
+        </div>
+        <div class="col-sm-12 col-md-4">
+            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-blanco-negro-04.jpg">
+                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-blanco-negro-04.jpg" alt="Traffic">
+            </a>
+        </div>
     </div>
-    <div class="item">
-      <img src="/img/portfolio/business-card.jpg" alt="Chicago">
-    </div>
-    <div class="item">
-      <img src="/img/portfolio/ipad-air-2.jpg" alt="New York">
-    </div>
-  </div>
-  <!-- Left and right controls -->
-  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#myCarousel" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right"></span>
-    <span class="sr-only">Next</span>
-  </a>
 </div>
