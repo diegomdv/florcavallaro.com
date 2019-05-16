@@ -6,21 +6,18 @@
     <description>Recent content in Portfolios on Flor Cavallaro Photography</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Mar 2018 19:44:32 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2019 12:27:17 -0500</lastBuildDate>
     
 	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Blanco y Negro</title>
-      <link>/portfolio/blanco-negro/</link>
-      <pubDate>Mon, 05 Mar 2018 19:44:32 +0530</pubDate>
+      <title>Alimentos y Bebidas</title>
+      <link>/portfolio/alimentos-bebidas/</link>
+      <pubDate>Tue, 30 Apr 2019 12:27:17 -0500</pubDate>
       
-      <guid>/portfolio/blanco-negro/</guid>
-      <description>&lt;p&gt;Las fotos en Blanco y Negro me hacen sentir emociones que quedan congeladas en el tiempo pero a la vez latentes en el alma.
-Es una mezcla de pasado, presente.
-Emociones que están vivas al observar esa imagen.
-&lt;/p&gt;</description>
+      <guid>/portfolio/alimentos-bebidas/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -36,11 +33,11 @@ Emociones que están vivas al observar esa imagen.
     </item>
     
     <item>
-      <title>Naturaleza / Paisajes</title>
-      <link>/portfolio/naturaleza-paisajes/</link>
+      <title>Blanco y Negro</title>
+      <link>/portfolio/blanco-negro/</link>
       <pubDate>Mon, 05 Mar 2018 19:44:32 +0530</pubDate>
       
-      <guid>/portfolio/naturaleza-paisajes/</guid>
+      <guid>/portfolio/blanco-negro/</guid>
       <description>&lt;p&gt;Las fotos en Blanco y Negro me hacen sentir emociones que quedan congeladas en el tiempo pero a la vez latentes en el alma.
 Es una mezcla de pasado, presente.
 Emociones que están vivas al observar esa imagen.
@@ -57,6 +54,72 @@ Emociones que están vivas al observar esa imagen.
 Es una mezcla de pasado, presente.
 Emociones que están vivas al observar esa imagen.
 &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Embarcaciones</title>
+      <link>/portfolio/embarcaciones/</link>
+      <pubDate>Tue, 30 Apr 2019 12:23:31 -0500</pubDate>
+      
+      <guid>/portfolio/embarcaciones/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hoteles</title>
+      <link>/portfolio/hoteles/</link>
+      <pubDate>Tue, 30 Apr 2019 12:23:31 -0500</pubDate>
+      
+      <guid>/portfolio/hoteles/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Inmuebles</title>
+      <link>/portfolio/inmuebles/</link>
+      <pubDate>Tue, 30 Apr 2019 12:23:31 -0500</pubDate>
+      
+      <guid>/portfolio/inmuebles/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Naturaleza / Paisajes</title>
+      <link>/portfolio/naturaleza-paisajes/</link>
+      <pubDate>Mon, 05 Mar 2018 19:44:32 +0530</pubDate>
+      
+      <guid>/portfolio/naturaleza-paisajes/</guid>
+      <description>&lt;p&gt;Las fotos en Blanco y Negro me hacen sentir emociones que quedan congeladas en el tiempo pero a la vez latentes en el alma.
+Es una mezcla de pasado, presente.
+Emociones que están vivas al observar esa imagen.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Photoshoots</title>
+      <link>/portfolio/photoshoots/</link>
+      <pubDate>Tue, 30 Apr 2019 12:23:31 -0500</pubDate>
+      
+      <guid>/portfolio/photoshoots/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pink Power</title>
+      <link>/portfolio/pink-power/</link>
+      <pubDate>Tue, 30 Apr 2019 12:23:31 -0500</pubDate>
+      
+      <guid>/portfolio/pink-power/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Producto</title>
+      <link>/portfolio/producto/</link>
+      <pubDate>Thu, 16 May 2019 16:26:05 -0500</pubDate>
+      
+      <guid>/portfolio/producto/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

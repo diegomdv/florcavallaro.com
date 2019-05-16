@@ -1,10 +1,10 @@
 +++
-image = "http://res.cloudinary.com/florcavallaro/image/upload/c_scale,f_auto,w_650/v1520528894/florcavallaro-com-amaneceres-atardeceres-15.jpg"
+image = "http://res.cloudinary.com/florcavallaro/image/upload/c_scale,f_auto,w_650/v1520528894/florcavallaro-com-amaneceres-atardeceres-06.jpg"
 showonlyimage = false
 date = "2018-03-05T19:44:32+05:30"
 title = "Amanecer / Atardecer"
 draft = false
-weight = 2
+weight = 20
 +++
 
 Las fotos en Blanco y Negro me hacen sentir emociones que quedan congeladas en el tiempo pero a la vez latentes en el alma.
@@ -92,6 +92,36 @@ Emociones que están vivas al observar esa imagen.
         <div class="col-sm-12 col-md-4">
             <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-amaneceres-atardeceres-01.jpg">
                 <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/florcavallaro-com-amaneceres-atardeceres-01" alt="">
+            </a>
+        </div>
+        <div class="col-sm-12 col-md-4">
+            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/FlorCavallaro-com-amaneceres-atardeceres-0F2A2664.jpg">
+                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/FlorCavallaro-com-amaneceres-atardeceres-0F2A2664.jpg" alt="">
+            </a>
+        </div>
+        <div class="col-sm-12 col-md-4">
+            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/FlorCavallaro-com-amaneceres-atardeceres-0F2A2675.jpg">
+                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/FlorCavallaro-com-amaneceres-atardeceres-0F2A2675.jpg" alt="">
+            </a>
+        </div>
+        <div class="col-sm-12 col-md-4">
+            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/FlorCavallaro-com-amaneceres-atardeceres-IMG_1025.jpg">
+                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/FlorCavallaro-com-amaneceres-atardeceres-IMG_1025.jpg" alt="">
+            </a>
+        </div>
+        <div class="col-sm-12 col-md-4">
+            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/FlorCavallaro-com-amaneceres-atardeceres-0F2A2634.jpg">
+                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/FlorCavallaro-com-amaneceres-atardeceres-0F2A2634.jpg" alt="">
+            </a>
+        </div>
+        <div class="col-sm-12 col-md-4">
+            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/FlorCavallaro-com-amaneceres-atardeceres-0F2A2671.jpg">
+                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/FlorCavallaro-com-amaneceres-atardeceres-0F2A2671.jpg" alt="">
+            </a>
+        </div>
+        <div class="col-sm-12 col-md-4">
+            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/FlorCavallaro-com-amaneceres-atardeceres-0F2A2699.jpg">
+                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/FlorCavallaro-com-amaneceres-atardeceres-0F2A2699.jpg" alt="">
             </a>
         </div>
     </div>

@@ -4,7 +4,7 @@ showonlyimage = false
 date = "2018-03-05T19:44:32+05:30"
 title = "Blanco y Negro"
 draft = false
-weight = 1
+weight = 30
 +++
 
 Las fotos en Blanco y Negro me hacen sentir emociones que quedan congeladas en el tiempo pero a la vez latentes en el alma.
@@ -72,6 +72,11 @@ Emociones que están vivas al observar esa imagen.
         <div class="col-sm-12 col-md-4">
             <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-blanco-negro-04.jpg">
                 <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/florcavallaro-com-blanco-negro-04.jpg" alt="">
+            </a>
+        </div>
+        <div class="col-sm-12 col-md-4">
+            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/FlorCavallaro-com-blanco-negro-0F2A3275.jpg">
+                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/FlorCavallaro-com-blanco-negro-0F2A3275.jpg" alt="">
             </a>
         </div>
     </div>

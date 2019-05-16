@@ -1,10 +1,10 @@
 +++
-image = "https://res.cloudinary.com/florcavallaro/image/upload/c_scale,f_auto,w_650/v1520529971/florcavallaro-com-naturaleza-paisajes-22.jpg"
+image = "https://res.cloudinary.com/florcavallaro/image/upload/c_scale,f_auto,w_650/v1520529971/FlorCavallaro-Naturaleza-Paisajes-0F2A1493.jpg"
 showonlyimage = false
 date = "2018-03-05T19:44:32+05:30"
 title = "Naturaleza / Paisajes"
 draft = false
-weight = 3
+weight = 80
 +++
 
 Las fotos en Blanco y Negro me hacen sentir emociones que quedan congeladas en el tiempo pero a la vez latentes en el alma.
@@ -189,6 +189,46 @@ Emociones que están vivas al observar esa imagen.
         <div class="col-sm-12 col-md-4">
             <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-naturaleza-paisajes-32.jpg">
                 <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/florcavallaro-com-naturaleza-paisajes-32" alt="">
+            </a>
+        </div>
+        <div class="col-sm-12 col-md-4">
+            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/FlorCavallaro-Naturaleza-Paisajes-0F2A1493.jpg">
+                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/FlorCavallaro-Naturaleza-Paisajes-0F2A1493.jpg" alt="">
+            </a>
+        </div>
+        <div class="col-sm-12 col-md-4">
+            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/FlorCavallaro-Naturaleza-Paisajes-0F2A7931.jpg">
+                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/FlorCavallaro-Naturaleza-Paisajes-0F2A7931.jpg" alt="">
+            </a>
+        </div>
+        <div class="col-sm-12 col-md-4">
+            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/FlorCavallaro-Naturaleza-Paisajes-0F2A7933.jpg">
+                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/FlorCavallaro-Naturaleza-Paisajes-0F2A7933.jpg" alt="">
+            </a>
+        </div>
+        <div class="col-sm-12 col-md-4">
+            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/FlorCavallaro-Naturaleza-Paisajes-IMG_0824.jpg">
+                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/FlorCavallaro-Naturaleza-Paisajes-IMG_0824.jpg" alt="">
+            </a>
+        </div>
+        <div class="col-sm-12 col-md-4">
+            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/FlorCavallaro-Naturaleza-Paisajes-IMG_0827.jpg">
+                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/FlorCavallaro-Naturaleza-Paisajes-IMG_0827.jpg" alt="">
+            </a>
+        </div>
+        <div class="col-sm-12 col-md-4">
+            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/FlorCavallaro-Naturaleza-Paisajes-IMG_0851.jpg">
+                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/FlorCavallaro-Naturaleza-Paisajes-IMG_0851.jpg" alt="">
+            </a>
+        </div>
+        <div class="col-sm-12 col-md-4">
+            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/FlorCavallaro-Naturaleza-Paisajes-IMG_1080.jpg">
+                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/FlorCavallaro-Naturaleza-Paisajes-IMG_1080.jpg" alt="">
+            </a>
+        </div>
+        <div class="col-sm-12 col-md-4">
+            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/FlorCavallaro-Naturaleza-Paisajes-IMG_1630-2.jpg">
+                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/FlorCavallaro-Naturaleza-Paisajes-IMG_1630-2.jpg" alt="">
             </a>
         </div>
     </div>

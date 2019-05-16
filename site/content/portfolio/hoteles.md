@@ -1,121 +1,12 @@
-<!DOCTYPE html>
-<html lang="en-us">
-<head><meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Hoteles</title>
-<meta name="description" content="Flor Cavallaro - Fotógrafa profesional - Fotografía inmobiliaria y hotelera">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="robots" content="all,follow">
-<meta name="googlebot" content="index,follow,snippet,archive">
-<link rel="stylesheet" href="/css/bootstrap.min.css">
-<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,300,700,400italic">
-<link rel="stylesheet" href="/css/font-awesome.min.css">
-<link rel="stylesheet" href="/css/owl.carousel.css">
-<link rel="stylesheet" href="/css/owl.theme.css">
-
-
-  <link href="/css/style.default.css" rel="stylesheet" id="theme-stylesheet">
-
- 
-
-  
-    <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
-  
-
-
-<link href="/css/custom.css" rel="stylesheet">
-
-<link href="https://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.css">
-<link rel="stylesheet" href="/css/gallery-grid.css">
-<link rel="shortcut icon" href="/img/favicon.png">
-
-
-<script>
-window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-ga('create', 'UA-115371168-1', 'auto');
-ga('send', 'pageview');
-</script>
-<script async src='//www.google-analytics.com/analytics.js'></script>
-
-</head>
-<body>
-  <div id="all">
-      <div class="container-fluid">
-          <div class="row row-offcanvas row-offcanvas-left">
-              <div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
-  <div class="sidebar-content">
-    <h1 class="sidebar-heading"><a href="/">Flor Cavallaro Photography</a></h1>
-    <img src="https://res.cloudinary.com/florcavallaro/image/upload/bo_12px_solid_rgb:ffffff,e_shadow:40,r_0/v1520528012/flor-cavallaro.jpg" alt="" class="img-responsive"><br />
-    
-      <p class="sidebar-p">Soy una fotógrafa profesional creativa e innovadora, amante de los paisajes y de capturar el mejor ángulo de cada lugar.</p>
-    
-      <p class="sidebar-p">Originaria de Argentina, ubicada actualmente en Cancún, Quintana Roo, México.</p>
-    
-    <ul class="sidebar-menu">
-      
-      
-        <li><a href="/">Home</a></li>
-      
-        <li><a href="/flor/">Acerca de mi</a></li>
-      
-        <li><a href="/contacto/">Contacto</a></li>
-      
-    </ul>
-    <p class="social">
-  
-  <a href="#ZgotmplZ" data-animate-hover="pulse" class="external facebook">
-    <i class="fa fa-facebook"></i>
-  </a>
-  
-  
-  
-  
-  <a href="https://www.instagram.com/florcavallarophotography/" title="" class="external instagram">
-    <i class="fa fa-instagram"></i>
-  </a>
-  
-  
-  <a href="mailto:flor@florcavallaro.com" data-animate-hover="pulse" class="email">
-    <i class="fa fa-envelope"></i>
-  </a>
-  
-  
-  
-  
-</p>
-
-
-    <div class="copyright">
-      <p class="credit">
-        
-          &copy;2018 Flor Cavallaro
-        
-        | Template by <a href="https://bootstrapious.com/free-templates" class="external">Bootstrapious.com</a>
-
-&amp; ported to Hugo by <a href="https://github.com/kishaningithub">Kishan B</a>
-
-      </p>
-    </div>
-  </div>
-</div>
-
-              
-<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
-  <div class="small-navbar visible-xs">
-  <button type="button" data-toggle="offcanvas" class="btn btn-ghost pull-left"> <i class="fa fa-align-left"> </i>Menu</button>
-  <h1 class="small-navbar-heading"><a href="/">Flor Cavallaro Photography</a></h1>
-</div>
-
-  <div class="row">
-
-    <div class="col-lg-12">
-      <div class="content-column-content">
-         <h1>Hoteles</h1>
-         <p></p>
++++
+image = "https://res.cloudinary.com/florcavallaro/image/upload/c_scale,f_auto,w_650/v1520461720/FlorCavallaro-com-hoteles-IMG_1425.jpg"
+showonlyimage = false
+date = "2019-04-30T12:23:31-05:00"
+title = "Hoteles"
+draft = false
+weight = 60
++++
+<!--more-->
 
 <div class="tz-gallery">
     <div class="row">
@@ -221,28 +112,3 @@ ga('send', 'pageview');
         </div>
     </div>
 </div>
-         
-      </div>
-    </div>
-  </div>
-</div>
-
-          </div>
-      </div>
-  </div>
-  <script src="/js/jquery.min.js"></script>
-<script src="/js/bootstrap.min.js"></script>
-<script src="/js/jquery.cookie.js"> </script>
-<script src="/js/ekko-lightbox.js"></script>
-<script src="/js/jquery.scrollTo.min.js"></script>
-<script src="/js/masonry.pkgd.min.js"></script>
-<script src="/js/imagesloaded.pkgd.min.js"></script>
-<script src="/js/owl.carousel.min.js"></script>
-<script src="/js/front.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
-<script>
-    baguetteBox.run('.tz-gallery');
-</script>
-
-</body>
-</html>
