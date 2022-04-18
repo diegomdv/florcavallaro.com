@@ -2,8 +2,8 @@
 image = "https://res.cloudinary.com/florcavallaro/image/upload/c_scale,f_auto,w_650/v1520461720/FlorCavallaro-com-PinkPower-0F2A4239.jpg"
 showonlyimage = false
 date = "2019-04-30T12:23:31-05:00"
-title = "Pink Power"
-draft = true
+title = "Día Internacional de la lucha contra el Cancer de Mama"
+draft = false
 weight = 100
 +++
 
