@@ -37,25 +37,10 @@ weight = 10
             </a>
         </div> 
         <div class="col-sm-12 col-md-4">
-            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/FlorCavallaro-com-alimentos-bebidas-0F2A1937_2.jpg">
-                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/FlorCavallaro-com-alimentos-bebidas-0F2A1937_2.jpg" alt="">
-            </a>
-        </div>
-        <div class="col-sm-12 col-md-4">
-            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/FlorCavallaro-com-alimentos-bebidas-0F2A1939.jpg">
-                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/FlorCavallaro-com-alimentos-bebidas-0F2A1939.jpg" alt="">
-            </a>
-        </div>
-        <div class="col-sm-12 col-md-4">
             <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/FlorCavallaro-com-alimentos-bebidas-0F2A1952.jpg">
                 <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/FlorCavallaro-com-alimentos-bebidas-0F2A1952.jpg" alt="">
             </a>
         </div> 
-        <div class="col-sm-12 col-md-4">
-            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/FlorCavallaro-com-alimentos-bebidas-0F2A1981.jpg">
-                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/FlorCavallaro-com-alimentos-bebidas-0F2A1981.jpg" alt="">
-            </a>
-        </div>
         <div class="col-sm-12 col-md-4">
             <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/FlorCavallaro-com-alimentos-bebidas-0F2A6532.jpg">
                 <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/FlorCavallaro-com-alimentos-bebidas-0F2A6532.jpg" alt="">
@@ -64,21 +49,6 @@ weight = 10
         <div class="col-sm-12 col-md-4">
             <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/FlorCavallaro-com-alimentos-bebidas-0F2A6488.jpg">
                 <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/FlorCavallaro-com-alimentos-bebidas-0F2A6488.jpg" alt="">
-            </a>
-        </div>
-        <div class="col-sm-12 col-md-4">
-            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/FlorCavallaro-com-alimentos-bebidas-0F2A6517.jpg">
-                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/FlorCavallaro-com-alimentos-bebidas-0F2A6517.jpg" alt="">
-            </a>
-        </div>
-        <div class="col-sm-12 col-md-4">
-            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/FlorCavallaro-com-alimentos-bebidas-0F2A6521.jpg">
-                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/FlorCavallaro-com-alimentos-bebidas-0F2A6521.jpg" alt="">
-            </a>
-        </div>
-        <div class="col-sm-12 col-md-4">
-            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/FlorCavallaro-com-alimentos-bebidas-0F2A6581.jpg">
-                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/FlorCavallaro-com-alimentos-bebidas-0F2A6581.jpg" alt="">
             </a>
         </div>
         <div class="col-sm-12 col-md-4">

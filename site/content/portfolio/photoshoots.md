@@ -12,11 +12,6 @@ weight = 90
 <div class="tz-gallery">
     <div class="row">
         <div class="col-sm-12 col-md-4">
-            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/FlorCavallaro-com-photoshoot-0F2A2141.jpg">
-                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/FlorCavallaro-com-photoshoot-0F2A2141.jpg" alt="">
-            </a>
-        </div>
-        <div class="col-sm-12 col-md-4">
             <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/FlorCavallaro-com-photoshoot-0F2A2154.jpg">
                 <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/FlorCavallaro-com-photoshoot-0F2A2154.jpg" alt="">
             </a>
@@ -24,16 +19,6 @@ weight = 90
         <div class="col-sm-12 col-md-4">
             <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/FlorCavallaro-com-photoshoot-0F2A2201.jpg">
                 <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/FlorCavallaro-com-photoshoot-0F2A2201.jpg" alt="">
-            </a>
-        </div>
-        <div class="col-sm-12 col-md-4">
-            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/FlorCavallaro-com-photoshoot-0F2A2761.jpg">
-                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/FlorCavallaro-com-photoshoot-0F2A2761.jpg" alt="">
-            </a>
-        </div>
-        <div class="col-sm-12 col-md-4">
-            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/FlorCavallaro-com-photoshoot-0F2A2783.jpg">
-                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/FlorCavallaro-com-photoshoot-0F2A2783.jpg" alt="">
             </a>
         </div>
         <div class="col-sm-12 col-md-4">

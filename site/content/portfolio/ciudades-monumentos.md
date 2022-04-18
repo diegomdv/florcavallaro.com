@@ -20,11 +20,6 @@ Emociones que están vivas al observar esa imagen.
             </a>
         </div>
         <div class="col-sm-12 col-md-4">
-            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-ciudad-monumentos-01.jpg">
-                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/florcavallaro-com-ciudad-monumentos-01" alt="">
-            </a>
-        </div>
-        <div class="col-sm-12 col-md-4">
             <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-ciudad-monumentos-02.jpg">
                 <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/florcavallaro-com-ciudad-monumentos-02" alt="">
             </a>
@@ -45,11 +40,6 @@ Emociones que están vivas al observar esa imagen.
             </a>
         </div>
         <div class="col-sm-12 col-md-4">
-            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-ciudad-monumentos-07.jpg">
-                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/florcavallaro-com-ciudad-monumentos-07" alt="">
-            </a>
-        </div>
-        <div class="col-sm-12 col-md-4">
             <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-ciudad-monumentos-08.jpg">
                 <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/florcavallaro-com-ciudad-monumentos-08" alt="">
             </a>
@@ -57,11 +47,6 @@ Emociones que están vivas al observar esa imagen.
         <div class="col-sm-12 col-md-4">
             <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-ciudad-monumentos-09.jpg">
                 <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/florcavallaro-com-ciudad-monumentos-09" alt="">
-            </a>
-        </div>
-        <div class="col-sm-12 col-md-4">
-            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-ciudad-monumentos-10.jpg">
-                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/florcavallaro-com-ciudad-monumentos-10" alt="">
             </a>
         </div>
         <div class="col-sm-12 col-md-4">
@@ -140,28 +125,13 @@ Emociones que están vivas al observar esa imagen.
             </a>
         </div>
         <div class="col-sm-12 col-md-4">
-            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-ciudad-monumentos-27.jpg">
-                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/florcavallaro-com-ciudad-monumentos-27" alt="">
-            </a>
-        </div>
-        <div class="col-sm-12 col-md-4">
             <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-ciudad-monumentos-28.jpg">
                 <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/florcavallaro-com-ciudad-monumentos-28" alt="">
             </a>
         </div>
         <div class="col-sm-12 col-md-4">
-            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-ciudad-monumentos-30.jpg">
-                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/florcavallaro-com-ciudad-monumentos-30" alt="">
-            </a>
-        </div>
-        <div class="col-sm-12 col-md-4">
             <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-ciudad-monumentos-31.jpg">
                 <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/florcavallaro-com-ciudad-monumentos-31" alt="">
-            </a>
-        </div>
-        <div class="col-sm-12 col-md-4">
-            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-ciudad-monumentos-29.jpg">
-                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/florcavallaro-com-ciudad-monumentos-29" alt="">
             </a>
         </div>
         <div class="col-sm-12 col-md-4">

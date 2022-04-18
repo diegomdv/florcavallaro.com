@@ -20,11 +20,6 @@ Emociones que están vivas al observar esa imagen.
             </a>
         </div>
         <div class="col-sm-12 col-md-4">
-            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-amaneceres-atardeceres-03.jpg">
-                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/florcavallaro-com-amaneceres-atardeceres-03" alt="">
-            </a>
-        </div>
-        <div class="col-sm-12 col-md-4">
             <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-amaneceres-atardeceres-07.jpg">
                 <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/florcavallaro-com-amaneceres-atardeceres-07" alt="">
             </a>
@@ -32,11 +27,6 @@ Emociones que están vivas al observar esa imagen.
         <div class="col-sm-12 col-md-4">
             <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-amaneceres-atardeceres-08.jpg">
                 <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/florcavallaro-com-amaneceres-atardeceres-08" alt="">
-            </a>
-        </div>
-        <div class="col-sm-12 col-md-4">
-            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-amaneceres-atardeceres-09.jpg">
-                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/florcavallaro-com-amaneceres-atardeceres-09" alt="">
             </a>
         </div>
         <div class="col-sm-12 col-md-4">
@@ -55,28 +45,8 @@ Emociones que están vivas al observar esa imagen.
             </a>
         </div>
         <div class="col-sm-12 col-md-4">
-            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-amaneceres-atardeceres-12.jpg">
-                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/florcavallaro-com-amaneceres-atardeceres-12" alt="">
-            </a>
-        </div>
-        <div class="col-sm-12 col-md-4">
-            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-amaneceres-atardeceres-15.jpg">
-                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/florcavallaro-com-amaneceres-atardeceres-15" alt="">
-            </a>
-        </div>
-        <div class="col-sm-12 col-md-4">
             <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-amaneceres-atardeceres-16.jpg">
                 <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/florcavallaro-com-amaneceres-atardeceres-16" alt="">
-            </a>
-        </div>
-        <div class="col-sm-12 col-md-4">
-            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-amaneceres-atardeceres-04.jpg">
-                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/florcavallaro-com-amaneceres-atardeceres-04" alt="">
-            </a>
-        </div>
-        <div class="col-sm-12 col-md-4">
-            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-amaneceres-atardeceres-05.jpg">
-                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/florcavallaro-com-amaneceres-atardeceres-05" alt="">
             </a>
         </div>
         <div class="col-sm-12 col-md-4">
@@ -92,11 +62,6 @@ Emociones que están vivas al observar esa imagen.
         <div class="col-sm-12 col-md-4">
             <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-com-amaneceres-atardeceres-01.jpg">
                 <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/florcavallaro-com-amaneceres-atardeceres-01" alt="">
-            </a>
-        </div>
-        <div class="col-sm-12 col-md-4">
-            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/FlorCavallaro-com-amaneceres-atardeceres-0F2A2664.jpg">
-                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/FlorCavallaro-com-amaneceres-atardeceres-0F2A2664.jpg" alt="">
             </a>
         </div>
         <div class="col-sm-12 col-md-4">
