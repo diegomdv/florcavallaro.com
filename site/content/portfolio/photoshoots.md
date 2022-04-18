@@ -66,5 +66,35 @@ weight = 90
                 <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/FlorCavallaro-com-photoshoot-IMG_3939.jpg" alt="">
             </a>
         </div>
+        <div class="col-sm-12 col-md-4">
+            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-photoshoots-0F2A9186.jpg">
+                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/florcavallaro-photoshoots-0F2A9186.jpg" alt="">
+            </a>
+        </div>
+        <div class="col-sm-12 col-md-4">
+            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-photoshoots-0F2A9184.jpg">
+                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/florcavallaro-photoshoots-0F2A9184.jpg" alt="">
+            </a>
+        </div>
+        <div class="col-sm-12 col-md-4">
+            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-photoshoots-0F2A9214.jpg">
+                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/florcavallaro-photoshoots-0F2A9214.jpg" alt="">
+            </a>
+        </div>
+        <div class="col-sm-12 col-md-4">
+            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-photoshoots-0F2A9234.jpg">
+                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/florcavallaro-photoshoots-0F2A9234.jpg" alt="">
+            </a>
+        </div>
+        <div class="col-sm-12 col-md-4">
+            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-photoshoots-0F2A9241.jpg">
+                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/florcavallaro-photoshoots-0F2A9241.jpg" alt="">
+            </a>
+        </div>
+        <div class="col-sm-12 col-md-4">
+            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/florcavallaro-photoshoots-0F2A9220.jpg">
+                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/florcavallaro-photoshoots-0F2A9220.jpg" alt="">
+            </a>
+        </div>
     </div>
 </div>
