@@ -22,18 +22,8 @@ weight = 90
             </a>
         </div>
         <div class="col-sm-12 col-md-4">
-            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/FlorCavallaro-com-photoshoot-0F2A2787.jpg">
-                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/FlorCavallaro-com-photoshoot-0F2A2787.jpg" alt="">
-            </a>
-        </div> 
-        <div class="col-sm-12 col-md-4">
             <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/FlorCavallaro-com-photoshoot-0F2A2810.jpg">
                 <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/FlorCavallaro-com-photoshoot-0F2A2810.jpg" alt="">
-            </a>
-        </div>
-        <div class="col-sm-12 col-md-4">
-            <a class="lightbox" href="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto/v1520461766/FlorCavallaro-com-photoshoot-0F2A2811.jpg">
-                <img src="https://res.cloudinary.com/florcavallaro/image/upload/f_auto,q_auto,c_scale,w_620/v1520461766/FlorCavallaro-com-photoshoot-0F2A2811.jpg" alt="">
             </a>
         </div>
         <div class="col-sm-12 col-md-4">
